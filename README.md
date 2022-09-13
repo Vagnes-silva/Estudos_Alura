@@ -1,2 +1,3 @@
 # Estudos_Alura
- Criando a Barbeoaria Alura
+ Criando a Barbearia Alura
+ Site criado acompanhando os vídeos da Alura Cursos.
